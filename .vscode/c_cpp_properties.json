@@ -1,0 +1,26 @@
+{
+  "configurations": [
+    {
+      "name": "macos-clang-x64",
+      "includePath": [
+        "${workspaceFolder}/**",
+        "/Users/louris/tech_learning/cplus_socket/include"
+      ],
+      "compilerPath": "/usr/bin/clang",
+      "cStandard": "gnu17",
+      "cppStandard": "c++17",
+      "intelliSenseMode": "macos-clang-x64",
+      "compilerArgs": [
+        ""
+      ],
+      "browse": {
+        "path": [
+          "/Users/louris/tech_learning/cplus_socket/include"
+        ],
+        "limitSymbolsToIncludedHeaders": true,
+        "databaseFilename": ""
+      }
+    }
+  ],
+  "version": 4
+}
